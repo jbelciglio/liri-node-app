@@ -1,0 +1,27 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "My first attempt at using Node by myself. While working on this project, I intend to also work on becoming better at front end. While my team members disagreed, I still felt I dropped the ball on the design. If I'm going to get good enough and have made enough to get me a job after I graduate, then I won't let myself slack off anymore.",
+  "main": "api.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbelciglio/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbelciglio/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/jbelciglio/liri-node-app#readme"
+}
